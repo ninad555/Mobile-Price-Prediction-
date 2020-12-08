@@ -6,10 +6,10 @@
  
       As a learner and to enhance my skills I have tried my best to improve the accuracy of the Model. 
 Libraries Used
-Numpy 
-Pandas
-Matplotlib
-Sklearn
+Numpy ,
+Pandas,
+Matplotlib,
+Sklearn.
 
 
 #Linear Regression
