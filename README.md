@@ -4,7 +4,14 @@
  
  Data Cleaning and extracting the main features using "Numpy" and "Pandas"
  
-      As a learner and to enhance my skills I have tried my best to improve the accuracy of the Model. 
+ Linear Regressiono to estimate MSE and Accuracy 
+ 
+ KNN used for prediction of Price range on  test data.
+ 
+ Deployed using Streamlit 
+ 
+   As a learner and to enhance my skills I have tried my best to improve the accuracy of the Model. 
+   
 Libraries Used
 Numpy ,
 Pandas,
